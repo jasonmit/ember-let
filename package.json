@@ -1,5 +1,5 @@
 {
-  "name": "ember-let",
+  "name": "@jasonmit/ember-let",
   "version": "0.7.1",
   "description": "A helper for binding values to HTMLBars template contexts",
   "keywords": [
